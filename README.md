@@ -1,4 +1,4 @@
-#AI in the medic filed
+#AI in the medic filed 
 
 Final project for the Building AI course
 
